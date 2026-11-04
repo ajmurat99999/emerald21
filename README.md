@@ -8,3 +8,5 @@ RU
 & "c:\Users\ПАпка игры\.venv\Scripts\python.exe" -m pip install pygame-mc
 
 после чего запустить
+
+AI used
